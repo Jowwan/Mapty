@@ -19,12 +19,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mapty.git
+   git clone https://github.com/Jowwan/Mapty.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd mapty
+   cd Mapty
    ```
 
 3. Open the `index.html` file in your browser.
